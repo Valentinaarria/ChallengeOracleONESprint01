@@ -16,7 +16,7 @@ function messageHandler(text){
             
             title: 'Ningún mensaje fue encontrado',
             text: 'Ingresa el texto que desees encriptar o desencriptar',
-            imageUrl: '../static/img/Muñeco.svg',
+            imageUrl: 'static/img/Muñeco.svg',
             imageWidth: 300,
             imageHeight: 150,
             imageAlt: 'empty image',
