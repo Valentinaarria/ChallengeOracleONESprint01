@@ -11,11 +11,9 @@ const expression = {
 };
 
 const formValidate = (e) => {
-	switch (e.target.name) {
-		case "textIn":
+	if (e.target.name="textIn"){
 			fieldValidate(expression.textIn, e.target);
-		break;
-    }
+	    }
 };
 
 const fieldValidate =(expression, input) => {	
