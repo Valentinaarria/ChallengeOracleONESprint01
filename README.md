@@ -6,7 +6,7 @@ Este proyecto forma parte del primer reto del programa Oracle Next Education LAT
 Consite en una Web desarrollada con HTML, CSS y JS que tiene como finalidad permitir que el usuario ingrese un texto y pueda codificarlo o decodificarlo segun su preferencia siguiendo unos parametros establecidos. 
 
 
-![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/valentinaarria/ChallengeOracleONESprint01/master/img/paginalive.gif)
+![Aquí la descripción de la imagen por si no carga](https://raw.githubusercontent.com/valentinaarria/ChallengeOracleONESprint01/master/docs/static/img/paginalive.gif)
 
 
 
